@@ -1,0 +1,2 @@
+#!/bin/sh
+java -jar OmegaT.OmegaT/OmegaT.jar --config-dir=OmegaT.settings OmegaT resource-bundle=OmegaT/target/src/org/omegat/Bundle_be.properties

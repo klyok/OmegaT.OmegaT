@@ -1,0 +1,45 @@
+filter	сіта
+filter	прасейваць
+problem	непаладка
+source	выточны
+VM	віртуальная машына
+Files to translate	Перакладаныя файлы
+File formats	Віды файлаў
+Reload	Перачытаць
+empty	парожні
+mediawiki	мэдыявікі
+selection	выбранае
+forward	далей
+tools	прылады
+help	даведка
+segment	кавалак -ка
+filename	назва файла
+cannot	не магу
+unique	непаўторны
+glossary	ґлясарый
+exact search	дакладны выраз
+exact search	дакладны пошук
+folder	каталёґ -а
+thread	струмень
+unexpectedly	неспадзявана
+close	замыкальны
+attributes	азнакі
+binary	двайковы
+translation unit	адзірка перакладу
+translation unit	адзінка перакладу
+variant	адменьнік
+plugin	утулка
+marker	пазначальнік
+column	слупок -ка
+translated file	перакладзены файл
+exception	пярэчаньне
+notes	нататкі
+endnote	вынаска
+footer	калёнтытул
+drawing	малюнак
+multiplatform	шматпляформавая
+filters	сіты
+dialog	дыялёґ
+source	крыніца
+compiling	зьбіраць
+script	скрыпт -у

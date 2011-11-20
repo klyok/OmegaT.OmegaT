@@ -1,0 +1,6019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.0_3" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135840Z">
+        <seg>&amp;Пра праґраму…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112327Z">
+        <seg>&amp;Дадаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112318Z">
+        <seg>&amp;Дадаць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153915Z">
+        <seg>&amp;Дазволіць, каб пераклад супадаў з крыніцаю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170551Z">
+        <seg>&amp;Заўжды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135648Z">
+        <seg>&amp;Пацьвярджаць, што выходзім з праґрамы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to the Project Files window</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141956Z">
+        <seg>&amp;Ужываць гэты шрыфт у вакне файлаў праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092020Z">
+        <seg>&amp;Памнажаць пераклады самарушна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161506Z">
+        <seg>&amp;Спраўджваць правапіс у тэксьце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111937Z">
+        <seg>&amp;Назад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090325Z">
+        <seg>На&amp;зад па гісторыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162329Z">
+        <seg>&amp;Закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092043Z">
+        <seg>&amp;Зірнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111439Z">
+        <seg>&amp;Скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155243Z">
+        <seg>&amp;Спраўджваць простыя зьменныя (пр., %s, %d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Choose...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161539Z">
+        <seg>&amp;Абраць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091448Z">
+        <seg>За&amp;чыніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162412Z">
+        <seg>&amp;Заўвагі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Cycle</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162246Z">
+        <seg>&amp;Наступнае па коле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165335Z">
+        <seg>&amp;Пачатковыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Display tags</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T152030Z">
+        <seg>&amp;Паказваць біркі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155219Z">
+        <seg>&amp;Ня спраўджваць друкавальныя зьменныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133252Z">
+        <seg>П&amp;равіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T113111Z">
+        <seg>П&amp;равіць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Editing Behaviour...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090038Z">
+        <seg>Налады рэ&amp;даґаваньня…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111938Z">
+        <seg>&amp;Пустых радкох</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162704Z">
+        <seg>&amp;Вынаскі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Exact Match</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135527Z">
+        <seg>&amp;Дакладнае супадзеньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Exact search</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095533Z">
+        <seg>&amp;Дакладны пошук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162625Z">
+        <seg>&amp;Праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111810Z">
+        <seg>&amp;Прасеяць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Font</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141852Z">
+        <seg>&amp;Шрыфт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162712Z">
+        <seg>З&amp;носкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090321Z">
+        <seg>Наперад па &amp;гісторыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135450Z">
+        <seg>Ґ&amp;лясарый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134132Z">
+        <seg>П&amp;ерайсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T173258Z">
+        <seg>«Наступнае неперакладзенае» спыняецца, калі ё прынамсі адзін іншы адменьнік перакладу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135730Z">
+        <seg>&amp;Даведка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Import Source Files...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153604Z">
+        <seg>&amp;Узяць файлы крыніцы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162323Z">
+        <seg>Запісы &amp;паказьніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112418Z">
+        <seg>&amp;Уставіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert Match</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133414Z">
+        <seg>&amp;Уставіць супадзеньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Install...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161546Z">
+        <seg>&amp;Усталяваць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Keyword search</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093637Z">
+        <seg>Паводле &amp;ключавых слоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172836Z">
+        <seg>&amp;Нічога</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163456Z">
+        <seg>&amp;Ліцэнзія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111933Z">
+        <seg>&amp;Разрывах радкоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Lower Case</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162048Z">
+        <seg>&amp;Вялікія літары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090231Z">
+        <seg>Статыстыка с&amp;упадзеньняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172915Z">
+        <seg>Най&amp;меншае падабенства:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115344Z">
+        <seg>&amp;Зьвесткі пра зьмяненьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172446Z">
+        <seg>Н&amp;іжэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172728Z">
+        <seg>&amp;Імя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Never</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111943Z">
+        <seg>&amp;Не падзяляць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T113049Z">
+        <seg>&amp;Стварыць праект…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134227Z">
+        <seg>&amp;Наступны кавалак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162406Z">
+        <seg>&amp;Нататкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;OK</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111434Z">
+        <seg>&amp;Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open Script...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162635Z">
+        <seg>&amp;Адчыніць скрыпт…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132647Z">
+        <seg>&amp;Адчыніць праект…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134707Z">
+        <seg>&amp;Можнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172919Z">
+        <seg>&amp;Прыстаўка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162423Z">
+        <seg>&amp;Нататкі да паказу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154706Z">
+        <seg>За&amp;хоўваць прагалы ў бірках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134308Z">
+        <seg>Папярэдні &amp;кавалак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T113026Z">
+        <seg>&amp;Праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project specific segmentation rules</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091720Z">
+        <seg>&amp;Адмысловыя правілы кавалкаў для праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133124Z">
+        <seg>&amp;Уласьцівасьці…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Proxy Login...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090222Z">
+        <seg>Пасродак с&amp;еціва…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133230Z">
+        <seg>&amp;Выйсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133402Z">
+        <seg>&amp;Вярнуць апошняе дзеяньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Regular expressions</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093730Z">
+        <seg>&amp;Сталы выраз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132936Z">
+        <seg>&amp;Перачытаць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112245Z">
+        <seg>&amp;Выкрасьліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135707Z">
+        <seg>&amp;Аднавіць галоўнае вакно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Run</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162701Z">
+        <seg>&amp;Запусьціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132941Z">
+        <seg>&amp;Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112237Z">
+        <seg>&amp;Шукаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133410Z">
+        <seg>&amp;Шукаць у праекце…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134337Z">
+        <seg>Кавалак н&amp;умар…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T085958Z">
+        <seg>&amp;Як падзяляць на кавалкі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162451Z">
+        <seg>&amp;Назвы аркушаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Size</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141855Z">
+        <seg>&amp;Памер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source (segment {0}):</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161826Z">
+        <seg>&amp;Крыніца (кавалак {0}):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153627Z">
+        <seg>&amp;Мова файлаў крыніцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134609Z">
+        <seg>&amp;Статыстыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Title Case</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162228Z">
+        <seg>Як У Анґельскім Загалоўку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093331Z">
+        <seg>Пры&amp;лады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091848Z">
+        <seg>Мова перакладзеных &amp;файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133325Z">
+        <seg>&amp;Адрабіць апошняе дзеяньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Uninstall...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161552Z">
+        <seg>&amp;Высталяваць…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Upper Case</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162058Z">
+        <seg>&amp;Маленькія літары</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135831Z">
+        <seg>&amp;Дапаможнік…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate Tags</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154648Z">
+        <seg>Спраўдзіць &amp;біркі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115218Z">
+        <seg>&amp;Выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171226Z">
+        <seg>value (увод у &amp;блянках, у тым ліку для кнопак, «падаць запыт» і «скінуць»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142838Z">
+        <seg>(Сьпіс файлаў, якія падтрымваюцца, можна паглядзець у частцы «Віды файлаў» разьдзелу «Перакладаныя файлы» дапаможніка.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Import Source Files... button in the Project Files window or call this action from the Project menu and select the source files you want to import.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135823Z">
+        <seg>(Сьпіс файлаў, якія падтрымваюцца, можна паглядзець у частцы «Віды файлаў» разьдзелу «Перакладаныя файлы» дапаможніка.)
+Каб дадаць файлы да праекту, у вакне файлаў праекту пстрыкніце па кнопцы «Ўзяць выточныя файлы…» (або абярыце гэтае дзеяньне ў мэню «Праект») і абярыце файлы, якія трэба ўзяць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170513Z">
+        <seg>Можнасьці сіта (X)HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100816Z">
+        <seg>(замыкальная бірка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100708Z">
+        <seg>(бірка заўвагі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100736Z">
+        <seg>(пустая бірка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/--</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141134Z">
+        <seg>--/--</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141351Z">
+        <seg>--/-- (--/--, --)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153539Z">
+        <seg>1. Паменшыць колькасьць крыніц і перакладаць па частках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T131407Z">
+        <seg>2. Павялічыць аб’ём памяці, даступны OmegaT: пазначыць у загадным радку
+або ў скрыпце запуску «java -Xmx&lt;памер-у-МБ&gt;M -jar OmegaT.jar»
+(зараз гэта {0} МБ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3) File a bug report at http://sourceforge.net/projects/omegat</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T131155Z">
+        <seg>3. Паведаміць пра памылку на http://sourceforge.net/projects/omegat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>404 not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143345Z">
+        <seg>Але няма яе, няма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>404 not with us now</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144006Z">
+        <seg>Бачыны з намі няма,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>50%-74%:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090601Z">
+        <seg>50%–74%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>75%-84%:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090557Z">
+        <seg>75%–84%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>85%-94%:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090554Z">
+        <seg>85%–94%:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>95%-100%:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145610Z">
+        <seg>95%–100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171240Z">
+        <seg>&lt;br&gt; (&amp;разрывы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162610Z">
+        <seg>&lt;ПУСТА&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T121905Z">
+        <seg>&lt;самарушна&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;end segment&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141536Z">
+        <seg>&lt;канец кавалка&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;none&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163137Z">
+        <seg>&lt;няма&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p&gt;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142956Z">
+        <seg>&lt;p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155519Z">
+        <seg>Нататка — гэта заўвага да аднаго кавалку тэксту крыніцы й перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112335Z">
+        <seg>Д&amp;адаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154703Z">
+        <seg>Аб’ядноўваць біркі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163409Z">
+        <seg>Пра OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170005Z">
+        <seg>Дадаць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add Script</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163034Z">
+        <seg>Дадаць скрыпт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112257Z">
+        <seg>Дадаць да слоўніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170545Z">
+        <seg>Дадаваць або нанова запісваць абвешчаньне кадоўкі ў файлах (X)HTML:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093841Z">
+        <seg>Дадатковыя &amp;можнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110314Z">
+        <seg>Дазволіць пакідаць у файлах парожні пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occured</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162717Z">
+        <seg>Далі хібу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093623Z">
+        <seg>Далі хібу, калі спрабавалі стварыць новы каталёґ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110514Z">
+        <seg>Выявілі пярэчаньне, калі аналізавалі файл TMX
+{0}
+Гэты файл памяці перакладаў не прачытаецца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144205Z">
+        <seg>Радкі: прааналізавалі {0} з {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Android Resource Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162135Z">
+        <seg>Файлы запасаў Android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apertium</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162541Z">
+        <seg>Апэртыюм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172547Z">
+        <seg>Ці ўпэўненыя вы, што хочаце выкрасьліць набор {0} правілаў?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091211Z">
+        <seg>Нельга, каб масівы былі пустымі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160432Z">
+        <seg>Як вынік, усе налады
+вернуцца да пачатковых значэньняў, праз што вы можаце
+заўважыць, што OmegaT паводзіць сябе нязвыкла (але правільна).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attribute:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163225Z">
+        <seg>Азнака:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093849Z">
+        <seg>&amp;Аўтар:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available dictionaries:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162006Z">
+        <seg>Наяўныя слоўнікі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161520Z">
+        <seg>Наяўныя мовы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162727Z">
+        <seg>Наяўныя рухавікі скрыптоў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092111Z">
+        <seg>&amp;Зірнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100309Z">
+        <seg>Хібная назва каталёґа {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100230Z">
+        <seg>Хібны сталы выраз!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143222Z">
+        <seg>Бармэн вымавіў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Belazar</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162531Z">
+        <seg>Белазар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162337Z">
+        <seg>Спасылкі &amp;закладак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both search types support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095927Z">
+        <seg>У абодвух выпадках можна карыстацца шаблёнамі «*» і «?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171619Z">
+        <seg>Разрыў (не выключэньне)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092115Z">
+        <seg>&amp;Зірнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092125Z">
+        <seg>&amp;Зірнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092129Z">
+        <seg>&amp;Зірнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But others await</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143514Z">
+        <seg>Але шмат яшчэ іншых.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Buy another drink.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143235Z">
+        <seg>Лепшы выпі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;ase sensitive</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094616Z">
+        <seg>Улічваць памер &amp;літар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163107Z">
+        <seg>Та&amp;бліцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145005Z">
+        <seg>Не магу атрымаць доступ да каталёґа ґлясарыяў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145019Z">
+        <seg>Не магу стварыць каталёґ перакладзеных файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot find saved TMX: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145049Z">
+        <seg>Не магу знайсьці захаваны файл памяці перакладаў: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100529Z">
+        <seg>Не магу прачытаць пазначаны файл XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot locate help file:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142219Z">
+        <seg>Не знайшлі файл даведкі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot open the link {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142230Z">
+        <seg>Нельга адчыніць спасылку {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot read selected script file.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162847Z">
+        <seg>Не магу прачытаць файл абранага скрыпту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165313Z">
+        <seg>Не ману аднавіць сіта да пачатковага ўзору.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171710Z">
+        <seg>Каталёнская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chan&amp;ged after:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094004Z">
+        <seg>&amp;Зьмянялася пасьля:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed &amp;before:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094019Z">
+        <seg>З&amp;ьмянялася да:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145154Z">
+        <seg>Знакаў (з прагаламі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145144Z">
+        <seg>Знакаў (без прагалаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155303Z">
+        <seg>Спраўджваць &amp;усе зьменныя (пр., %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on '{0}' menu item</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160958Z">
+        <seg>Пстрыкнулі па пункце мэню «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162614Z">
+        <seg>&amp;Заўвагі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Code has been contributed by: 
+Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Thomas Huriaux, Ibai Lakunza Velasco, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei and Martin Wunderlich</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164423Z">
+        <seg>Код праґрамы пісалі:
+Zoltan Bartko, Volker Berlin, Didier Briel (кіраўнік распрацоўкі), Kim Bruning, Alex Buloichik (галоўны распрацоўнік), Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Thomas Huriaux, Ibai Lakunza Velasco, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Rashid Umarov, Antonio Vilei and Martin Wunderlich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105845Z">
+        <seg>Паказьнік слупка мусіць быць роўным 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162917Z">
+        <seg>За&amp;ўвагі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154337Z">
+        <seg>Заўвага:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115012Z">
+        <seg>Заўвагі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111857Z">
+        <seg>Зь&amp;месьціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112423Z">
+        <seg>Пацьвердзіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165248Z">
+        <seg>Пацьвердзіць сьціраньне ўзору {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm uninstalling</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161704Z">
+        <seg>Пацьвердзіць высталёўваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100655Z">
+        <seg>Нечаканы пачатак біркі заўвагі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connecting to dictionary repository...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161901Z">
+        <seg>Злучаемся са сховішчам слоўнікаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114849Z">
+        <seg>Перапісаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2011 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163442Z">
+        <seg>Аўтарскія правы © 2000–2011 гг. Кіт Ґодфры, Максім Міхальчук дый іншыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105128Z">
+        <seg>Не магу запусьціць выгляд, падобны да працоўнага асяродзьдзя!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134001Z">
+        <seg>Стварыць запіс ґ&amp;лясарыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091604Z">
+        <seg>С&amp;тварыць пераклады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Alternative Translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114826Z">
+        <seg>Стварыць іншы пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Glossary Entry</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T152527Z">
+        <seg>Стварыць запіс ґлясарыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091740Z">
+        <seg>Стварыць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a New Project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092730Z">
+        <seg>Стварыць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103420Z">
+        <seg>Стваральнік: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T102221Z">
+        <seg>Зьбіраюцца пераклады: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T121834Z">
+        <seg>Віртуальнаю машынаю ўжываецца: {0} МБ, зь якіх вольныя {1} МБ; даступнымі могуць быць {2} МБ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114832Z">
+        <seg>Выразаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163127Z">
+        <seg>Ґра&amp;фікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Death, taxes, and page not found.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143430Z">
+        <seg>сьмерць, падаткі і «бачыну не знайшлі».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171832Z">
+        <seg>Звычайная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114945Z">
+        <seg>Слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161534Z">
+        <seg>Каталёґ файлаў слоўнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092218Z">
+        <seg>Каталёґ файлаў слоўнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091856Z">
+        <seg>Каталёґ слоўнікаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary Installer</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161851Z">
+        <seg>Усталёўца слоўнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161531Z">
+        <seg>Каталёґ файлаў слоўнікаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093516Z">
+        <seg>Пазначаны каталёґ слоўнікаў не існуе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dis&amp;play all results</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094653Z">
+        <seg>Паказваць усе вынікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;All</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115434Z">
+        <seg>Пра &amp;ўсе кавалкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;None</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115353Z">
+        <seg>&amp;Не паказваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Selected</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115422Z">
+        <seg>Пра &amp;бягучы кавалак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;Source Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153941Z">
+        <seg>Паказваць &amp;кавалкі крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141850Z">
+        <seg>Шрыфт праґрамы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153927Z">
+        <seg>Аздабляць тлустым &amp;кавалкі крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154722Z">
+        <seg>Не перакладаць зьмесьціва азнакаў у бірках, што маюць наступнае спалучэньне ключ-значэньне (праз коску):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141145Z">
+        <seg>Ці сапраўды хочаце выйсьці?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DocBook Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161717Z">
+        <seg>Файлы DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115024Z">
+        <seg>Прычапіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162205Z">
+        <seg>Файлы DokuWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163156Z">
+        <seg>&amp;Малюнкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171751Z">
+        <seg>Галяндзкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091251Z">
+        <seg>Падзяляць на &amp;кавалкі па сказах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133746Z">
+        <seg>В&amp;ыняць выбранае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093522Z">
+        <seg>Памылка: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165155Z">
+        <seg>Правіць сіта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165954Z">
+        <seg>Правіць узоры сіта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170009Z">
+        <seg>Правіць узор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091320Z">
+        <seg>Правіць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091331Z">
+        <seg>Тут можна зьмяніць уласьцівасьці праекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing Behaviour Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172737Z">
+        <seg>Можнасьці паводзінаў рэдактара</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115141Z">
+        <seg>Рэдактар — {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emptiness of soul</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143533Z">
+        <seg>Пустэча ў душы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable &amp;TransTips</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135519Z">
+        <seg>Дазволіць &amp;TransTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable project specific filters</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165651Z">
+        <seg>Дазволіць адмысловыя сіты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105747Z">
+        <seg>Дзейнічае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112217Z">
+        <seg>Знайшлі няправільную пасьлядоўнасьць «\u»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T102740Z">
+        <seg>Не знайшлі замыкальнага блёку да канца плыні!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171807Z">
+        <seg>Анґельская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153931Z">
+        <seg>Упішыце азначэньне з крыніцы, пераклад і заўвагу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141022Z">
+        <seg>Упішыце нумар кавалка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entries with modified tags</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154653Z">
+        <seg>Кавалкаў са зьмененымі біркамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143741Z">
+        <seg>Эфэмэрная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112420Z">
+        <seg>Памылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error creating project!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144305Z">
+        <seg>Не ўдалося стварыць праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error decoding user and password.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154618Z">
+        <seg>Далі хібу, калі расшыфроўвалі ймя карыстальніка ды пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162455Z">
+        <seg>Памылка ў файле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161709Z">
+        <seg>Памылка ў файле {0}, радку {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105550Z">
+        <seg>Далі хібу, калі запускалі пазначальнік «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error on application startup</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162335Z">
+        <seg>Далі хібу, калі запускалі праґраму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104818Z">
+        <seg>Далі хібу, калі чытаць памяць перакладаў узроўню 2: радок {0}, слупок {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving project file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144259Z">
+        <seg>Не ўдалося захаваць праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171538Z">
+        <seg>Далі хібу, калі захоўвалі настаўленьне правілаў кавалкаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100216Z">
+        <seg>Далі хібу, калі шукалі па дрэве каталёґаў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141105Z">
+        <seg>Далі хібу, калі правілі праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error while trying to save script.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162930Z">
+        <seg>далі хібу, калі спрабавалі захаваць скрыпт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error {0}: {1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162549Z">
+        <seg>Памылка {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103137Z">
+        <seg>Двайковы адмысловы знак зьмяшчае хібныя дадзеныя ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T102818Z">
+        <seg>Ня скончылі адмысловага знаку!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103151Z">
+        <seg>Дзесятковы адмысловы знак зьмяшчае хібныя дадзеныя ({0})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application shutdown</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161042Z">
+        <seg>Падзея: спыняецца праґрама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: application startup</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161028Z">
+        <seg>Падзея: запускаецца праґрама</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: font changed</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161107Z">
+        <seg>Падзея: зьмянілі шрыфт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new entry activated</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161102Z">
+        <seg>Падзея: задзейнічалі новы запіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: new file activated ({0})</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161054Z">
+        <seg>Падзея: задзейнічалі новы файл ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Event: project change - "{0}"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161018Z">
+        <seg>Падзея: зьмяніўся праект — «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091103Z">
+        <seg>Дакладна супадаюць:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exact searches look for the entire specified query string.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095618Z">
+        <seg>Дакладны пошук шукае выраз цалкам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Excel</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162843Z">
+        <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165321Z">
+        <seg>Выявілася пярэчаньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171347Z">
+        <seg>Пярэчаньне правіць налады:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110452Z">
+        <seg>Пярэчаньне сынтаксычнага аналізу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171522Z">
+        <seg>Выявілася пярэчаньне, калі чыталі правілы кавалкаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143342Z">
+        <seg>Гэтая бачына,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142801Z">
+        <seg>Гэтая старонка&lt;p&gt;мусіць вельмі патрэбная.&lt;p&gt;Але няма яе няма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export the segment to text files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T173008Z">
+        <seg>Вымаць кавалак у тэкставыя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External TM&amp;Xs...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135332Z">
+        <seg>Вонкавыя &amp;файлы памяці перакладаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T173321Z">
+        <seg>Можнасьці вонкавае памяці перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extracted comments:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163217Z">
+        <seg>Выцягнутыя заўвагі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>F&amp;ont...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134928Z">
+        <seg>&amp;Шрыфт…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T140052Z">
+        <seg>Не ўдалося сабраць файлы праекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144758Z">
+        <seg>Не ўдалося стварыць праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T140019Z">
+        <seg>Не ўдалося прачытаць пазначаны праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T140104Z">
+        <seg>Не ўдалося прачытаць памяць перакладаў {0} праекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144415Z">
+        <seg>Фатальная памылка. Файл праекту захоўваецца з пашырэньнем «.recover».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103905Z">
+        <seg>Фатальная памылка сынтаксісу ў радку {0}, слупку {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133142Z">
+        <seg>&amp;Сіты файлаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165340Z">
+        <seg>Від &amp;файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165629Z">
+        <seg>Сіты файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105743Z">
+        <seg>Від файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Import Failed</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132915Z">
+        <seg>Не ўдалося ўзяць файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145238Z">
+        <seg>Назва файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091414Z">
+        <seg>Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103157Z">
+        <seg>Файл «{0}» не існуе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141519Z">
+        <seg>Файл: пераклалі / кавалкаў (праект: пераклалі непаўторных / усіх непаўторных, разам кавалкаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142013Z">
+        <seg>Назва файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170054Z">
+        <seg>Зьменныя ў назвах файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename already exists.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093544Z">
+        <seg>Файл з такою назваю ўжо існуе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105738Z">
+        <seg>Не магу прачытаць сіта «{0}» з «{1}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flash XML export</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161642Z">
+        <seg>Вынятыя файлы Flash XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100730Z">
+        <seg>Знак «?» не прывязаны да «&gt;»!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162826Z">
+        <seg>Ніжні &amp;калёнтытул</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forever aching blackness</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143600Z">
+        <seg>Спрадвеку вые цемра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From your path it is fleeing</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144125Z">
+        <seg>Але схавалася ў ночы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155201Z">
+        <seg>Калі спраўджваць цалкам, у звычайных тэкстах могуць выявіцца несапраўдныя памылкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115001Z">
+        <seg>Недакладныя супадзеньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171642Z">
+        <seg>Нямецкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163043Z">
+        <seg>Агульнае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114953Z">
+        <seg>Ґлясарый</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092201Z">
+        <seg>Каталёґ файлаў ґлясарыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091810Z">
+        <seg>Каталёґ ґлясарыю:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary file: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154346Z">
+        <seg>Файл ґлясарыю: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093454Z">
+        <seg>Пазначаны каталёґ ґлясарыю не існуе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141036Z">
+        <seg>Да кавалка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go To Segment Source</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153945Z">
+        <seg>Да крыніцы кавалка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162515Z">
+        <seg>Перакладчык Google</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Google Translate v2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162522Z">
+        <seg>Перакладчык Google v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gossamer threads hold you back</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143019Z">
+        <seg>мусіць, вельмі патрэбная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171409Z">
+        <seg>Завялікі файл HHC!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171401Z">
+        <seg>Файлы HTML Help Compiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170236Z">
+        <seg>Файлы HTML і XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171900Z">
+        <seg>Кавалкі ў HTML, XHTML, ODF ды Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164559Z">
+        <seg>HTMLParser 1.6, аўтар — Somik Raha, Derrick Oswald ды іншыя (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162719Z">
+        <seg>За&amp;галоўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help &amp; Manual Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161314Z">
+        <seg>Файлы даведкі й дапаможніку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help you are seeking</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144031Z">
+        <seg>Ты просіш дапамогі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092725Z">
+        <seg>Таксама тут можна пазначыць, дзе вы жадаеце бачыць каталёґі файлаў праекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153832Z">
+        <seg>Тут можна ўладкаваць узоры назваў файлаў крыніцы, якія будзе апрацоўваць сіта, наставіць назвы перакладзеных файлаў і абраць кадоўку, у якой будуць чытацца файла крыніцы ды захоўвацца перакладзеныя адпаведнікі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162325Z">
+        <seg>Схаваць «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hunspell by László Németh and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154228Z">
+        <seg>Hunspell, аўтары — László Németh ды іншыя (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I am the Blue Screen of Death</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143753Z">
+        <seg>сіняя бачына сьмерці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153518Z">
+        <seg>У&amp;ставіць тэкст крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110444Z">
+        <seg>Пярэчаньне ўводу-вываду:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170502Z">
+        <seg>Калі файл HTML зьмяшчае абвешчаньне кадоўкі, яна й будзе ўжывацца без увагі да таго, што вы абралі ў гэтым дыялёґу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171444Z">
+        <seg>Калі файл HHC ці HHK зьмяшчае абвешчаньне кадоўкі, яна й будзе ўжывацца без увагі да таго, што вы абралі ў гэтым дыялёґу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160650Z">
+        <seg>Калі потым OmegaT атрымае доступ да патрэбнага каталёґу,
+ён і будзе ўжывацца, а ўсе налады ў выніку вернуцца
+да пачатковых значэньняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165947Z">
+        <seg>Калі сіта мае некія можнасьці, пстрыкнуўшы «Можнасьці» іх можна зьмяніць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154511Z">
+        <seg>Калі пасродак патрабуе апазнавацца, упішыце адпаведныя ймя карыстальніка ды пароль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112252Z">
+        <seg>Заўжды прапускаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import From Media&amp;Wiki...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091559Z">
+        <seg>Узяць з &amp;МэдыяВікі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import From MediaWiki</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132854Z">
+        <seg>Узяць з МэдыяВікі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import Source Files...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153613Z">
+        <seg>Узяць файлы крыніцы…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In no&amp;tes</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093819Z">
+        <seg>У &amp;нататках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135917Z">
+        <seg>Каб зьмяненьні пачалі дзейнічаць, OmegaT мусіць зачыніць і зноўку адчыніць праект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153648Z">
+        <seg>У &amp;крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In tra&amp;nslations</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093801Z">
+        <seg>У &amp;перакладах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145233Z">
+        <seg>Статыстыка асобных файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Infix Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161620Z">
+        <seg>Файлы Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160840Z">
+        <seg>Зьвесткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match Into Translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115444Z">
+        <seg>Уставіць супадзеньне ў пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154645Z">
+        <seg>Уставіць &amp;біркі з крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172855Z">
+        <seg>Найлепшае &amp;супадзеньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162000Z">
+        <seg>Усталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing failed</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161751Z">
+        <seg>Не ўдалося ўсталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155815Z">
+        <seg>Распачніце перакладаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170219Z">
+        <seg>Хібны файл HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid file format</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110533Z">
+        <seg>Хібны від файла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172719Z">
+        <seg>Так будуць пазначацца вашыя пераклады.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160802Z">
+        <seg>Немагчыма стварыць каталёґ скрыптоў
+усярэдзіне каталёґу настаўленьняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Its winter has come</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144132Z">
+        <seg>гэтая бачына.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JAXB (GPLv2 + classpath exception)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154750Z">
+        <seg>JAXB (GPLv2 + выключэньне на classpath)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JNA by Todd Fast, Timothy Wall and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154254Z">
+        <seg>JNA, аўтары — Todd Fast, Timothy Wall ды іншыя (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171757Z">
+        <seg>Японская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112146Z">
+        <seg>Клункі запасаў Java™</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java: {0} ver.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160849Z">
+        <seg>Java: вэрсія {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jmyspell 2.1.4 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154312Z">
+        <seg>Jmyspell 2.1.4 (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115146Z">
+        <seg>Ключ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key=Value Text Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162157Z">
+        <seg>Файлы віду «ключ=значэньне»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T101045Z">
+        <seg>Калі шукаць паводле ключавых словаў, знойдуцца ўсе радкі, якія зьмяшчаюць усе словы шуканага выразу (падзеленыя прагаламі) — у якім бы парадку яны не стаялі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110215Z">
+        <seg>Файлы LaTeX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Checker</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162559Z">
+        <seg>Правапіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171543Z">
+        <seg>Назва мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171547Z">
+        <seg>Узор мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104214Z">
+        <seg>Для адзінкі перакладу ня вызначылі мовы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091334Z">
+        <seg>Мовы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last modified by {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141808Z">
+        <seg>{0} зьмяняў (-ла) апошнім</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lies beyond our perception</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143508Z">
+        <seg>знайсьці немагчыма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162439Z">
+        <seg>&amp;Спасылкі (URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144655Z">
+        <seg>Чытаюцца файлы памяці перакладаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossaries</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144226Z">
+        <seg>Чытаюцца ґлясарыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104839Z">
+        <seg>Чытаецца ґлясарый {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading project...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144210Z">
+        <seg>Чытаецца праект…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144631Z">
+        <seg>Чытаецца: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110040Z">
+        <seg>Каталёґ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lost to paradise</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144014Z">
+        <seg>але яна — у раі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MRJ Adapter 1.0.8 by Steve Roy (LGPL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164611Z">
+        <seg>MRJ Adapter 1.0.8, аўтар — Steve Roy (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135429Z">
+        <seg>&amp;Машынны пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114949Z">
+        <seg>Машынны пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior is the coordinator of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164255Z">
+        <seg>Marc Prior — каардынатар праекту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134903Z">
+        <seg>Пазначаць &amp;перакладзенае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134919Z">
+        <seg>Пазначаць &amp;неперакладзенае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-&amp;Unique Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115318Z">
+        <seg>Пазначаць п&amp;аўторныя кавалкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark the first non-&amp;unique segment</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T152514Z">
+        <seg>Пазначыць першы паўторны кавалак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145456Z">
+        <seg>Статыстыка супадзеньняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115046Z">
+        <seg>Найбольшыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100200Z">
+        <seg>Дасягнулі найбольшае колькасьці знойдзеных выразаў ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162513Z">
+        <seg>Файлы Microsoft Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115036Z">
+        <seg>Найменшыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143907Z">
+        <seg>Сусьветны смутак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172441Z">
+        <seg>В&amp;ышэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172437Z">
+        <seg>&amp;Ніжэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172431Z">
+        <seg>&amp;Вышэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111839Z">
+        <seg>Файлы Mozilla DTD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T151807Z">
+        <seg>Іншыя пераклады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172553Z">
+        <seg>Новая мова ды краіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134302Z">
+        <seg>Наступнае не&amp;перакладзенае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T173126Z">
+        <seg>Наступнае неперакладзенае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112329Z">
+        <seg>Няма прапаноў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091116Z">
+        <seg>Не паўтараюцца:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100419Z">
+        <seg>Нічога не знайшлі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161316Z">
+        <seg>Захоўваць ня трэба, бо нічога не зьмянілася</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No new dictionaries available at the remote server.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161954Z">
+        <seg>Не знайшлі новых слоўнікаў на адлеглым паслужніку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No one hears your screams.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143802Z">
+        <seg>Твае крыкі ніхто ня чуе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script bound in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163031Z">
+        <seg>Шчыліна №{0} ня мае скрыпту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script selected.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162822Z">
+        <seg>Не абралі скрыпт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No script set.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163004Z">
+        <seg>Ня вызначылі скрыпту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tag errors detected</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154656Z">
+        <seg>Ня выявілі памылак у бірках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162906Z">
+        <seg>Нябачны &amp;тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100516Z">
+        <seg>Хібны файл XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172010Z">
+        <seg>Уважце: усе правілы, што да таго, як падзяляць па кавалках у адпаведнае мове, ужываюцца ў пададзеным парадку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162049Z">
+        <seg>Уважце: файлы DocBook пазнаюцца ня толькі па пашырэньні. Яны таксама мусяць мець абвешчаньне: „&lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML…“ (для DocBook 4), або прастору імёнаў «xmlns="http://docbook.org/ns/docbook"» — для DocBook 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153853Z">
+        <seg>Уважце: налады кадоўкі файлаў крыніцы уплываюць толькі на тыя файлы HHC і HHK, што не зьмяшчаюць абвешчаньня кадоўкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153848Z">
+        <seg>Уважце: налады кадоўкі файлаў крыніцы уплываюць толькі на тыя файлы HTML, што не зьмяшчаюць абвешчаньня кадоўкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165614Z">
+        <seg>Уважце: кадоўку можна абраць не заўсёды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115007Z">
+        <seg>Нататкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093903Z">
+        <seg>Зараз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of results: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100428Z">
+        <seg>Вынікаў: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142023Z">
+        <seg>Колькасьць кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of results:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095149Z">
+        <seg>Колькасьць вынікаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Number of unique segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142139Z">
+        <seg>Непаўторных кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170000Z">
+        <seg>&amp;Можнасьці…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092735Z">
+        <seg>Файлы праекту OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093528Z">
+        <seg>Каталёґ праекту OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154915Z">
+        <seg>Таксама OmegaT можна спраўджваць зьменныя праґрамаваньня (зьменныя друкавальнае функцыі) кшталту «%s».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164100Z">
+        <seg>OmegaT — гэта дармавая шматплятформавая праґрама з адкрытымі выточнымі кодамі, кампутарны дапаможнік перакладчыка, якая ўмее падбіраць недакладныя супадзеньні, шукаць паводле ключавых словаў, карыстацца памяцьцю перакладаў, ґлясарыем, выкарыстоўваць наяўныя пераклады ў новых праектах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160031Z">
+        <seg>Праґраме OmegaT адмовілі ў доступе да сыстэмнае ўласьцівасьці,
+якая зьмяшчае назву апэрацыйнае сыстэмы, і (або) да ўласьцівасьці,
+якая зьмяшчае хатні каталёґ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164123Z">
+        <seg>Стваральнік OmegaT — Кіт Ґодфры (Keith Godfrey).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164650Z">
+        <seg>Ліцэнзія OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112604Z">
+        <seg>OmegaT бракуе памяці: націсьніце «Добра», каб выйсьці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164517Z">
+        <seg>OmegaT карыстаецца наступнымі бібліятэкамі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163400Z">
+        <seg>Вэрсія OmegaT — {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT version {0}, update {1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163406Z">
+        <seg>Вэрсія OmegaT — {0}, абнаўленьне {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T121029Z">
+        <seg>OmegaT спыніць працаваць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104751Z">
+        <seg>OmegaT паспрабуе нанова разьбіць на кавалкі гэты файл…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111422Z">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111425Z">
+        <seg>OmegaT-{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170607Z">
+        <seg>Толькі калі файл &amp;мае загаловак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170815Z">
+        <seg>Толькі калі файл мае &amp;абвешчаньне кадоўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091744Z">
+        <seg>Адчыніць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162520Z">
+        <seg>Можнасьці сіта Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162232Z">
+        <seg>Можнасьці сіта OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument/OpenOffice.org Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162225Z">
+        <seg>Файлы OpenDocument (OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133132Z">
+        <seg>Можнасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or a rude error message</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143835Z">
+        <seg>Паведамленьне пра памылку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145122Z">
+        <seg>Састарэлыя кавалкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163237Z">
+        <seg>Іншыя можнасьці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164501Z">
+        <seg>Падрабязьней пра ўнёсак іншых людзей глядзіце ў файлу readme.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110221Z">
+        <seg>Файлы PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110235Z">
+        <seg>Можнасьці сіта PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143248Z">
+        <seg>Ціха скрозь пальцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103251Z">
+        <seg>Не ўдалося разабраць файл перавагаў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Password:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154531Z">
+        <seg>Пароль:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114841Z">
+        <seg>Уставіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171639Z">
+        <seg>Што пасьля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171636Z">
+        <seg>Што перад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100411Z">
+        <seg>Зачыніце вакно пошуку, калі ласка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144621Z">
+        <seg>Трэба зьвярнуцца да дакумэнтацыі па магчымасьцях аднаўляць файлы ды
+даслаць вытворцу праґрамы апісаньне таго, як зьвілася памылка, і
+пададзеныя ніжэй зьвесткі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103741Z">
+        <seg>Зірніце файл справаздачы
+({1}),
+каб выявіць крыніцу памылкі, і паспрабуйце яшчэ раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172654Z">
+        <seg>Упішыце сваё ймя або азначальнік.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a dictionary file folder first</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161811Z">
+        <seg>Спачатку абярыце каталёґ слоўнікаў, калі ласка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different name.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093604Z">
+        <seg>Пазначце іншую назву, калі ласка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T152011Z">
+        <seg>Абярыце, як адлюстроўваць біркі файлаў TMX, створаных не ў OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the dictionaries you want to install and press the Install button.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161933Z">
+        <seg>Абярыце, калі ласка, якія слоўнікі трэба ўсталяваць, і націсьніце кнопку «Ўсталяваць».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target 
+language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092522Z">
+        <seg>Абярыце, калі ласка, мову, зь якое вы будзеце перакладаць,
+і мову, у якую будзеце перакладаць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172811Z">
+        <seg>Абярыце, калі ласка, што трэба ўстаўляць у яшчэ не перакладзены кавалак, калі вы перайшлі да яго.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155011Z">
+        <seg>Вызначце, калі ласка, адпаведныя паводзіны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132839Z">
+        <seg>Упішыце або ўстаўце спасылку на бачыну мэдыявікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please wait.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161908Z">
+        <seg>Пачакайце, калі ласка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171730Z">
+        <seg>Польская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Power Point</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162929Z">
+        <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103213Z">
+        <seg>Не ўдалося захаваць перавагі!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144821Z">
+        <seg>Далі хібу, калі чыталі файлы праекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161646Z">
+        <seg>Ці працягваць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133207Z">
+        <seg>&amp;Файлы праекту…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141959Z">
+        <seg>Файлы праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165643Z">
+        <seg>Адмысловыя сіты для праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171915Z">
+        <seg>Адмысловыя правілы кавалкаў для праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145125Z">
+        <seg>Статыстыка праекту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170204Z">
+        <seg>Праект захаваўся а {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161320Z">
+        <seg>Праект зачынілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161409Z">
+        <seg>Скончылі зьбіраць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161402Z">
+        <seg>Пачалі зьбіраць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161428Z">
+        <seg>Скончылі ствараць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161419Z">
+        <seg>Пачалі ствараць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132626Z">
+        <seg>Праект парожні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project load cancelled by user</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144251Z">
+        <seg>Карыстальнік спыніў чытаць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161249Z">
+        <seg>Скончылі чытаць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161245Z">
+        <seg>Пачалі чытаць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141131Z">
+        <seg>Праект захавалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161302Z">
+        <seg>Скончылі захоўваць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161254Z">
+        <seg>Пачалі захоўваць праект</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy User and Password</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154521Z">
+        <seg>Карыстальнік ды пароль на пасродак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pulse pounding hard and frantic</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143312Z">
+        <seg>сьлізганула бачына.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111900Z">
+        <seg>Файлы QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112345Z">
+        <seg>В&amp;ыкрасьліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>R&amp;eplace with Match</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133432Z">
+        <seg>&amp;Замяніць супадзеньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143825Z">
+        <seg>Гукавы сыґнал?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;move Filter</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154054Z">
+        <seg>Скасаваць сі&amp;та</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153522Z">
+        <seg>Замяніць &amp;тэкстам крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103402Z">
+        <seg>Чытаецца файл памяці перакладаў {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103416Z">
+        <seg>Файла памяці перакладаў прачыталі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103836Z">
+        <seg>Папраўная памылка сынтаксісу ў радку {0}, слупку {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095119Z">
+        <seg>У падкаталёґа&amp;х</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>References:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163220Z">
+        <seg>Спасылкі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refreshing script directory "{0}"</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162916Z">
+        <seg>Абнаўляецца каталёґ скрыпту «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145437Z">
+        <seg>Засталося знакаў (з прагаламі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145358Z">
+        <seg>Засталося знакаў (без прагалаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145252Z">
+        <seg>Засталося кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T101012Z">
+        <seg>Засталося словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145158Z">
+        <seg>Засталося:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Script</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163038Z">
+        <seg>Выкрасьліць скрыпт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165253Z">
+        <seg>Ці сьцерці ўзор?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114444Z">
+        <seg>Сьцерці пераклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135931Z">
+        <seg>Ці зрабіць гэта зараз?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141121Z">
+        <seg>Ці адчыніць праект нанова?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091053Z">
+        <seg>Паўтараюцца:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Match</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115451Z">
+        <seg>Замяніць пераклад супадзеньнем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace Translation with Text</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114721Z">
+        <seg>Замяніць пераклад тэкстам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T133514Z">
+        <seg>Замяніць &amp;машынным перакладам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ResX Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112238Z">
+        <seg>Файлы ResX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115048Z">
+        <seg>Аднавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112416Z">
+        <seg>Да &amp;пачатковых</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Result:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162704Z">
+        <seg>Вынік:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run script on slot #{0}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162955Z">
+        <seg>Запусьціць скрыпт на шчыліне №{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171755Z">
+        <seg>Расейская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163214Z">
+        <seg>Заўвагі да &amp;слайдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>S&amp;witch Case To</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162042Z">
+        <seg>&amp;Зьмяніць памер літар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVG Image Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161615Z">
+        <seg>Файлы відарысаў SVG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample Text</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141915Z">
+        <seg>Прыклад тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Script</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162921Z">
+        <seg>Захаваць скрыпт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141126Z">
+        <seg>Захоўваецца праект…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scatt'ring petals to the wind:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143148Z">
+        <seg>404 —</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163123Z">
+        <seg>Скрыпт «{0}» дадалі ў шчыліну №{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" saved.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162942Z">
+        <seg>Скрыпт «{0}» захавалі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163133Z">
+        <seg>Скрыпт «{0}» прынялі са шчыліны №{1}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script &amp;Language</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162657Z">
+        <seg>&amp;Мова скрыпту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134648Z">
+        <seg>Ск&amp;рыпты…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162617Z">
+        <seg>Ск&amp;рыпты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162815Z">
+        <seg>Каталёґ скрыптоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts Folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162811Z">
+        <seg>Каталёґ скрыптоў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search &amp;files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094814Z">
+        <seg>Шукаць у &amp;файлах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094621Z">
+        <seg>&amp;У памяці перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093627Z">
+        <seg>Шукаць:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100400Z">
+        <seg>Струмень пошуку неспадзявана памёр!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches are done within the current project or in any folder or folder structure.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095420Z">
+        <seg>OmegaT шукае па ўсім праекце або ў абраным каталёґу ці дрэве каталёґаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Searches can be performed in the source and/or in the translation and/or in notes.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153723Z">
+        <seg>Шукаць можна ў крыніцах і (або) перакладзеных выразах і (або) ў нататках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Security error encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145113Z">
+        <seg>Далі хібу ў бясьпецы, калі чыталі праект!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104335Z">
+        <seg>Па-за адменьнікам адзінкі перакладу знайшлі кавалак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104343Z">
+        <seg>Кавалак прапусьцілі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111930Z">
+        <seg>Падзяляць тэкст на абзаца па:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171907Z">
+        <seg>Налады кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103435Z">
+        <seg>Спосаб падзяляць на кавалкі: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172508Z">
+        <seg>Правілы ўжываюцца ў наступным парадку:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145132Z">
+        <seg>Кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T111944Z">
+        <seg>Абраць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T094748Z">
+        <seg>Зір&amp;нуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134015Z">
+        <seg>Абраць супадзеньне №&amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134032Z">
+        <seg>Абраць супадзеньне №&amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T134036Z">
+        <seg>Абраць супадзеньне №&amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090511Z">
+        <seg>Абраць супадзеньне №&amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090523Z">
+        <seg>Абраць супадзеньне №&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an entry to view comments if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155716Z">
+        <seg>Абярыце які кавалак і вы ўбачыце заўвагі — калі яны існуюць у файле крыніцы і калі адпаведнае сіта файлаў іх падтрымвае (як, напрыклад, сіта файлаў PO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an entry to view, add, remove or edit a translation unit note.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T155409Z">
+        <seg>Каб паглядзець, дадаць або сьцерці нататку да адзінкі перакладу, абярыце адпаведны кавалак.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected Engine: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162857Z">
+        <seg>Абраны рухавік: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161428Z">
+        <seg>Пакінуць пераклад пустым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172456Z">
+        <seg>Наборы правілаў кавалкаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170620Z">
+        <seg>Прапускаць тэкст, які адпавядае сталаму выразу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Masters?</note>
+      <tuv lang="EN">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154138Z">
+        <seg>&amp;Майстры слайдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163036Z">
+        <seg>&amp;Раскладкі слайдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092326Z">
+        <seg>Не знайшлі пэўных каталёґаў праекту:
+мажліва, іх перасунулі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source File Encoding</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153757Z">
+        <seg>Кадоўка файлаў крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153840Z">
+        <seg>Кадоўка файлаў крыніцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153753Z">
+        <seg>Узор назваў файлаў крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153837Z">
+        <seg>Узор файлаў крыніцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153632Z">
+        <seg>Каталёґ файлаў крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153623Z">
+        <seg>Каталёґ файлаў крыніцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153533Z">
+        <seg>Скончылі чытаць файлы крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153642Z">
+        <seg>Пазначаны каталёґ файлаў крыніцы не існуе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153729Z">
+        <seg>Мова крыніцы: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153735Z">
+        <seg>Не магу знайсьці кавалак крыніцы да пэўных адзінак перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153936Z">
+        <seg>У крыніцы:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141410Z">
+        <seg>Даўжыня крыніцы / перакладу (знакаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171728Z">
+        <seg>Гішпанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spell &amp;Checking...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135717Z">
+        <seg>Сп&amp;раўджваць правапіс…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161446Z">
+        <seg>Налады правапісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171208Z">
+        <seg>Пачынаць новы абзац па:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Statistics</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145453Z">
+        <seg>Статыстыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SubRip Subtitles Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162119Z">
+        <seg>Файлы субтытраў SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Swing-Layout 1.0.2 (LGPL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154303Z">
+        <seg>Swing-Layout 1.0.2 (ліцэнзія LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104631Z">
+        <seg>Файл памяці перакладаў ствараўся ў OmegaT вэрсіі 1.4.x ці пазьнейшае.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag &amp;Validation...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135117Z">
+        <seg>Спраўджваньне па&amp;знакаў…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Validation Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154759Z">
+        <seg>Можнасьці спраўджваць біркі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100701Z">
+        <seg>Назва біркі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163222Z">
+        <seg>Бірка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154333Z">
+        <seg>Пераклад:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tea&amp;m...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135236Z">
+        <seg>C&amp;упольная праца…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172617Z">
+        <seg>Можнасьці супольнае працы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111903Z">
+        <seg>Тэкставыя файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111914Z">
+        <seg>Можнасьці сіта тэксту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T095143Z">
+        <seg>Шукаць тэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171843Z">
+        <seg>Тэкст па кавалках</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160522Z">
+        <seg>Настаўленьні захаваюцца ў бягучым каталёґу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &amp;source text</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153904Z">
+        <seg>&amp;Тэкст крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '*' character matches zero or more characters (the search term 'run*' would match 'run', 'runs', and 'running', for example).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100030Z">
+        <seg>Знак «*» замяняе 0 ці болей знакаў (напрыклад, выраз «бел*» супадзе са словамі «белы», «белае», але не супадзе са словамі «бегчы» і «пабелка»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The '?' character matches exactly one character ('run?' would match 'runs' and 'rung', for example, but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100140Z">
+        <seg>Знак «?» замяняе дакладна адзін знак (напрыклад, «бела?» супадзе зь «белая» і «белай», але не супадзе са словамі «беламу» або «белага»).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110436Z">
+        <seg>Сіта PO выклікала пярэчаньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104556Z">
+        <seg>Працягаем чытаць файл памяці перакладаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104002Z">
+        <seg>Гэты файл памяці перакладаў не прачытаецца
+Паспрабуйце выправіць памылку і нанова прачытаць праект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153747Z">
+        <seg>Мова крыніцы файла памяці перакладаў ({0}) адрозьніваецца ад мовы крыніцы праекту ({1}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160837Z">
+        <seg>Будзе ўжывацца бягучы каталёґ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160519Z">
+        <seg>Настаўленьні захаваюцца ў бягучым каталёґу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The help page you seek</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143505Z">
+        <seg>Разьдзел, што шукаеш,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093205Z">
+        <seg>Мова пазначаецца як «мм-КК», «ммм-КК», «мм_КК» ці «ммм_КК» (без двукосьсяў),
+дзе «мм» або «ммм» пазначае мову, а «КК» (не абавязкова) — мясцовасьць або краіну.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The script "{0}" is running...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162713Z">
+        <seg>Скрыпт «{0}» працуе…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153637Z">
+        <seg>Няправільна пазначылі мову файлаў крыніцы!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093225Z">
+        <seg>Няправільна пазначылі, мову перакладзеных файлаў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172422Z">
+        <seg>Таму калі вы перакладаеце з канадзкае францускае, правілы будуць ужывацца для ўсяго ланцугу ў належным парадку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160117Z">
+        <seg>Таму вызначыць, дзе знаходзяцца настаўленьні OmegaT, немагчыма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143407Z">
+        <seg>Тры рэчы вечныя:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104445Z">
+        <seg>Прапусьцілі гэтыя адзінкі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143853Z">
+        <seg>Ды не. Проста «бачыну не знайшлі».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141910Z">
+        <seg>Так будзе выглядаць тэкст на экране.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165149Z">
+        <seg>Гэтая праґрама распаўсюджваецца ў спадзяваньні, што яна будзе карыснаю, але БЕЗ АНІЯКІХ ПАРУК, у тым ліку без парукі мець быць ПРЫДАТНАЮ ДЛЯ ПРОДАЖУ або ДЛЯ ПЭЎНАГА ПРЫЗНАЧЭНЬНЯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T164828Z">
+        <seg>Гэта дармавая праґрама; яе можна распаўсюджваць і (або) зьмяняць згодна з умовамі другое або, калі пажадаеце, пазьнейшае вэрсіі ліцэнзіі GNU General Public License, апублікаванае Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172237Z">
+        <seg>Гэтак, напрыклад, правілы канадзкае францускае мовы (FR-CA) будуць пераважаць і над правіламі францускае (FR.*), і над агульнымі правіламі (.*).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access this link, either copy and paste the URL to your Web browser, or open the User's Manual in your Web browser ({0} file).</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142430Z">
+        <seg>Каб перайсьці па спасылцы, або перапішыце яе ў аглядальнік сеціва, або адчыніце файл дапаможніка ({0}) у аглядальніку сеціва.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add files to the project, click on the Import Source Files... button in the Project Files window or call this action from the Project menu and select the source files you want to import.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T153549Z">
+        <seg>Каб дадаць файлы да праекту, у вакне файлаў праекту пстрыкніце па кнопцы «Ўзяць файлы крыніцы…» (або абярыце гэтае дзеяньне ў мэню «Праект») і абярыце файлы, якія трэба ўзяць.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165856Z">
+        <seg>Каб вызначыць, якія файлы у якіх кадоўках будзе апрацоўваць сіта, абярыце яго са сьпісу ды пстрыкніце «Правіць».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170215Z">
+        <seg>Завялікі файл HTML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145430Z">
+        <seg>Разам знакаў (з прагаламі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145349Z">
+        <seg>Разам знакаў (без прагалаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145250Z">
+        <seg>Усіх кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145321Z">
+        <seg>Разам словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total number of segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142058Z">
+        <seg>Колькасьць кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145129Z">
+        <seg>Разам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tra&amp;nsTips</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135500Z">
+        <seg>Tra&amp;nsTips</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170832Z">
+        <seg>Перакладаць наступныя азнакі:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162241Z">
+        <seg>Перакладаць наступнае:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T110035Z">
+        <seg>Кадоўка перакладзеных файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170041Z">
+        <seg>Кадоўка перакладзеных файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Filename Pattern</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170118Z">
+        <seg>Узор назваў перакладзеных файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092149Z">
+        <seg>Каталёґ перакладзеных файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091804Z">
+        <seg>Каталёґ перакладзеных файлаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T102254Z">
+        <seg>Пераклады сабралі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093428Z">
+        <seg>Пазначаны каталёґ перакладзеных файлаў не існуе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated unique segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142158Z">
+        <seg>Пераклалі непаўторных кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092211Z">
+        <seg>Каталёґ файлаў памяці перакладаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T091818Z">
+        <seg>Каталёґ памяці перакладаў:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation last modified by {0} on {1} at {2}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141727Z">
+        <seg>Зьмянялася {1} а {2} ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T093510Z">
+        <seg>Пазначаны каталёґ памяці перакладаў не існуе!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104246Z">
+        <seg>Перад загалоўкам файла памяці перакладаў знайшлі адзінку перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104256Z">
+        <seg>Па-за адзінкаю перакладу знайшлі адменьнік адзінкі перакладу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translator comments:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T163146Z">
+        <seg>Заўвагі перакладчыка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 LocManager Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161419Z">
+        <seg>Файлы Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161446Z">
+        <seg>Файлы Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T144751Z">
+        <seg>Немагчыма стварыць новы файл памяці перакладаў!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100454Z">
+        <seg>Немагчыма пачаць чытаць файл XML!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105622Z">
+        <seg>Немагчыма разабраць сіты ў фале настаўленьняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103325Z">
+        <seg>Немагчыма прачытаць файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092743Z">
+        <seg>Немагчыма прачытаць файл праекту!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105636Z">
+        <seg>Немагчыма захаваць сіты ў фале настаўленьняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to uninstall the selected dictionary</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161734Z">
+        <seg>Немагчыма высталяваць абраны слоўнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T115051Z">
+        <seg>Адчапіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100611Z">
+        <seg>Нечаканы знак «{0}» ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling failed</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161746Z">
+        <seg>Не ўдалося высталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145445Z">
+        <seg>Непаўторных знакаў (з прагаламі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145409Z">
+        <seg>Непаўторных знакаў (без прагалаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145451Z">
+        <seg>Засталося непаўторных знакаў (з прагаламі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145422Z">
+        <seg>Засталося непаўторных знакаў (без прагалаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145310Z">
+        <seg>Засталося непаўторных кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T101019Z">
+        <seg>Засталося непаўторных словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145224Z">
+        <seg>Засталося непаўторных:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145302Z">
+        <seg>Непаўторных кавалкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T101013Z">
+        <seg>Непаўторных словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T145229Z">
+        <seg>Непаўторных:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unknown plugin type in '{0}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T105241Z">
+        <seg>Невядомы від утулкі ў «{0}»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103929Z">
+        <seg>Непапраўная памылка сынтаксісу файла TMX
+{0}
+у радку {1}, слупку {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100508Z">
+        <seg>Вэрсія XML {0} не падтрымваецца!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103318Z">
+        <seg>Кадоўка не падтрымваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103342Z">
+        <seg>Вэрсія {0} файлаў праекту не падтрымваецца!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104636Z">
+        <seg>Абнаўляем…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T090029Z">
+        <seg>Пераходзіць да наступнага &amp;клявішаю «Tab»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T152407Z">
+        <seg>XML для &amp;самастойных бірак (пр., &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use as Default Translation</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T114742Z">
+        <seg>Ужываць звычайным перакладам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142204Z">
+        <seg>Дапаможнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User's Manual viewer does not support navigation to external links.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142407Z">
+        <seg>Праглядальнік дапаможніка ня можа пераходзіць па вонкавых спасылках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154527Z">
+        <seg>Карыстальнік:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154201Z">
+        <seg>VLDocking Framework 2.1.4, аўтар — VLSolutions (ліцэнзія CeCILL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validating Tags...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T154659Z">
+        <seg>Спраўдзіць біркі…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vanishing like mist.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143356Z">
+        <seg>І зьнікла нібы туман.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104136Z">
+        <seg>Адменьнік прапусьцілі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103529Z">
+        <seg>Будуць паказвацца адменьнікі з наступных моў: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103423Z">
+        <seg>Вэрсія: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vie&amp;w...</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T135345Z">
+        <seg>&amp;Выгляд…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T152432Z">
+        <seg>Можнасьці выгляду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T165705Z">
+        <seg>Зірнуць або правіць сіты.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132638Z">
+        <seg>Увага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T103817Z">
+        <seg>Перасьцярога сынтаксісу ў радку {0}, слупку {1}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WiX Localization Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161604Z">
+        <seg>Файлы перакладаў WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143051Z">
+        <seg>Лілея на ветравею</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows Resource Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T111757Z">
+        <seg>Файлы запасаў Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T162839Z">
+        <seg>Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T163231Z">
+        <seg>Аб’&amp;екты WordArt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T161701Z">
+        <seg>Файлы Wordfast TXML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T101024Z">
+        <seg>Словаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171447Z">
+        <seg>Файлы XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171453Z">
+        <seg>Можнасьці сіта XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF Files</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T112223Z">
+        <seg>Файлы XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T161740Z">
+        <seg>Высталёўваецца правапісны слоўнік, які ўжываецца ў праекце.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find detailed statistic information in the file:
+{0}</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T142047Z">
+        <seg>Падрабязную статыстыку можна пабачыць у файле
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Project -&gt; Reload from the main menu.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T132609Z">
+        <seg>Таксама можна з дапамогаю кіраўніка файлаў перапісаць патрэбныя файлы ў каталёґ «source» і абраць пункт мэню «Праект» &gt; «Перачытаць», каб нанова прачытаць праект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T112955Z">
+        <seg>Устараніць непаладкі можна паспрабаваць наступным чынам:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141049Z">
+        <seg>Трэба ўпісаць лічбу ад 1 да {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162501Z">
+        <seg>Трэба абнавіць JDK 1.6 да найноўшае вэрсіі ці проста сьцерці файлы «jaxb-*.jar» з каталёґу «/lib» OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should specify their new location or recreate
+them.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T092411Z">
+        <seg>Трэба стварыць іх нанова, або пазначыць, дзе
+яны знаходзяцца насамрэч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You, victim of one.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143442Z">
+        <seg>Адгадайце, што здарылася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T104734Z">
+        <seg>У бягучы праекце кавалкі ствараюцца са сказаў, а ў файле памяці перакладаў — з абзацаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your help page not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143614Z">
+        <seg>Няма бачыны, няма.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160505Z">
+        <seg>Апэрацыйная сыстэма не дазволіла OmegaT
+стварыць каталёґ настаўленьняў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your page cannot be found, boy</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143230Z">
+        <seg>ціха: яе не знайсьці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your page is not found</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T143158Z">
+        <seg>злая памылка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T121957Z">
+        <seg>Праект ня ўтрымвае ніводнага файлу, які б падтрымваўся.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T172930Z">
+        <seg>[недакладна]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100903Z">
+        <seg>азнакаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170937Z">
+        <seg>hreflang (м&amp;ова спасылкі)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170849Z">
+        <seg>href (URL &amp;спасылак)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170919Z">
+        <seg>lang (азнака &amp;мовы)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111118T100819Z">
+        <seg>прачыталі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment 0000</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141528Z">
+        <seg>кавалак 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T170903Z">
+        <seg>src (URL &amp;відарысаў)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111117T141811Z">
+        <seg>невядома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111119T171234Z">
+        <seg>value (увод для &amp;кнопак, «падаць запыт» і «скінуць»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} loaded.</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T162803Z">
+        <seg>Прачыталі {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{1}, executed from '{2}'</seg>
+      </tuv>
+      <tuv lang="BE" changeid="klyok" changedate="20111120T160927Z">
+        <seg>{1}, выконваецца з «{2}»</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
